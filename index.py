@@ -37,3 +37,5 @@ plt.show()
 
 print(Fore.YELLOW + Style.BRIGHT + "Passo 4: O gráfico da função foi exibido com os pontos críticos destacados em vermelho.")
 print(Style.BRIGHT + "Todas as etapas foram concluídas com sucesso.")
+
+print("Teste")
