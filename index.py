@@ -39,3 +39,4 @@ print(Fore.YELLOW + Style.BRIGHT + "Passo 4: O gráfico da função foi exibido 
 print(Style.BRIGHT + "Todas as etapas foram concluídas com sucesso.")
 
 print("Teste")
+print("Teste2")
